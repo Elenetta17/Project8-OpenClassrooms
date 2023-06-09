@@ -34,7 +34,7 @@ Finally, I was able to run a notebook on AWS and process 12884 images. The pipel
 -	image resizing
 -	transfer learning with MobileNetV2 model to extract the images features
 -	a PCA on the features 
--	
+
 The classification trained on the features is almost perfect.
 
 The results were saved on a bucket AWS S3 in parquet format; a csv file containing PCA results was also saved.
