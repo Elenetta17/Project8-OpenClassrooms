@@ -9,7 +9,7 @@ The company's desire is to preserve the biodiversity of the fruits
 by allowing specific treatments for each species of fruit
 by developing intelligent picking robots.
 
-The start-up initially wants to make itself to the general public by developing a mobile application that allows
+The start-up initially wants to make itself known to the general public by developing a mobile application that allows
 users to take a picture of a fruit and get information about that fruit.
 
 This application will help to raise awareness 
