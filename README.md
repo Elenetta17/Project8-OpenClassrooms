@@ -20,5 +20,5 @@ In addition, the development of the mobile application will make it possible to 
 
 Develop a pipeline that
 includes preprocessing and a dimension reduction step, taking into account that the volume of data will increase very soon after the delivery of this project. This mean that it is necessary to:
-    - Deploy the pipeline in a Big Data environment
-    - Develop scripts in Pyspark to perform distributed computing
+ - Deploy the pipeline in a Big Data environment
+ - Develop scripts in Pyspark to perform distributed computing
